@@ -9008,8 +9008,10 @@
           "color": "黑色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340706-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9019,8 +9021,10 @@
           "color": "黑色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340706-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9030,8 +9034,10 @@
           "color": "黑色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340706-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9056,8 +9062,10 @@
           "color": "青绿色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340726-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9067,8 +9075,10 @@
           "color": "青绿色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340726-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9078,8 +9088,10 @@
           "color": "青绿色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f340726-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/ex-one-black-340706",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9105,7 +9117,7 @@
           "priceFen": 175500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "找到HEAD官网准确货号原图；HEAD26/27 Racing目录纸面15页确认BRAKE85[D]，但当前取得的官方目录未明确该SKU的哑光黑色色名，保守暂不发布。"
           }
         }
       ],
@@ -9130,8 +9142,10 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 104000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100911-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/pr-11-gw-100942-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9156,13 +9170,14 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 84500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "conflict",
+            "note": "官方26/27目录SKU100921标solid black/speed blue[D85]；货单哑光黑/速度蓝，颜色未确认，不使用该图。"
           }
         }
       ],
       "warnings": [
-        "货单品类：固定器（双板）"
+        "货单品类：固定器（双板）",
+        "型号或配色信息待确认：货单与官方资料存在差异，请与商家核实。"
       ]
     },
     {
@@ -9182,8 +9197,10 @@
           "color": "哑光黑色",
           "priceFen": 104000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100943-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/pr-11-gw-100942-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9208,8 +9225,10 @@
           "color": "白色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100952-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/joy-9-gw-slr-100952-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9234,13 +9253,14 @@
           "color": "白色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "conflict",
+            "note": "货单H-78与HEAD官方SKU100953的85 mm [H]不同，不使用85配置图。"
           }
         }
       ],
       "warnings": [
-        "货单品类：固定器（双板）"
+        "货单品类：固定器（双板）",
+        "型号或配色信息待确认：货单与官方资料存在差异，请与商家核实。"
       ]
     },
     {
@@ -9262,8 +9282,10 @@
           "color": "纯黑色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100954-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/joy-9-gw-slr-100952-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9274,7 +9296,7 @@
           "priceFen": 97500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "同货号官方颜色为solid black，货单该选择为哑光黑色，未确认颜色别名，不自动共用纯黑图。"
           }
         }
       ],
@@ -9300,8 +9322,10 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 227500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100964-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/protector-freeflex-14-gw-100964",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9326,8 +9350,10 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 117000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100966-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/freeflex-11-gw-100966",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9352,8 +9378,10 @@
           "color": "黑色/速度蓝",
           "priceFen": 195000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f100967-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/freeflex-demo-14-gw-100967-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9380,8 +9408,10 @@
           "color": "黑色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114528-bindings-official.webp",
+            "sourceUrl": "https://www.head.com/en_IE/product/discovery-74-315176-set",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         },
         {
@@ -9392,7 +9422,7 @@
           "priceFen": 97500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "官方套装114528配色为solid black，货单哑光黑色未确认，不自动合并。"
           }
         }
       ],
@@ -9418,13 +9448,14 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 97500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "conflict",
+            "note": "HEAD26/27官方出版目录显示114561为solid black/speed blue，而货单是哑光黑色/速度蓝色；未确认颜色别名，继续不放图。"
           }
         }
       ],
       "warnings": [
-        "货单品类：固定器（双板）"
+        "货单品类：固定器（双板）",
+        "型号或配色信息待确认：货单与官方资料存在差异，请与商家核实。"
       ]
     },
     {
@@ -9444,25 +9475,13 @@
           "color": "哑光黑色/速度蓝色",
           "priceFen": 65000,
           "image": {
-            "status": "conflict",
-            "note": "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
-          }
-        },
-        {
-          "id": "v_7fef0f6cc7a4b1dbd29c",
-          "productId": "p_a89f586f50f1fba8d65a",
-          "size": "M",
-          "color": "哑光黑色/速度蓝色",
-          "priceFen": 97500,
-          "image": {
-            "status": "conflict",
-            "note": "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
+            "status": "pending",
+            "note": "未找到官方 C 后缀型号或与普通 114561 的等同证明，不复用普通号图片。"
           }
         }
       ],
       "warnings": [
-        "货单品类：固定器（双板）",
-        "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
+        "货单品类：固定器（双板）"
       ]
     },
     {
@@ -9482,8 +9501,10 @@
           "color": "沙色",
           "priceFen": 110500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114598-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/attack-lyt-11-gw-114598-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9509,7 +9530,7 @@
           "priceFen": 110500,
           "image": {
             "status": "conflict",
-            "note": "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
+            "note": "当前官方黑色款已换为 114600.SET 及 194600xx 子货号；没有找到原货号独立官方图和原配置证据，不复用无刹车本体图。"
           }
         }
       ],
@@ -9536,7 +9557,7 @@
           "priceFen": 110500,
           "image": {
             "status": "conflict",
-            "note": "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
+            "note": "原表 114601/BRAKE 95 与官方配置映射冲突；114601 对应 85 mm，114602 对应 95 mm，不借用 114602 图片。"
           }
         }
       ],
@@ -9563,7 +9584,7 @@
           "priceFen": 110500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "当前官方黑色款已换为 114600.SET 及 194600xx 子货号；没有找到原货号独立官方图和原配置证据，不复用无刹车本体图。"
           }
         }
       ],
@@ -9589,7 +9610,7 @@
           "priceFen": 110500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "当前官方黑色款已换为 114600.SET 及 194600xx 子货号；没有找到原货号独立官方图和原配置证据，不复用无刹车本体图。"
           }
         }
       ],
@@ -9614,8 +9635,10 @@
           "color": "白色",
           "priceFen": 110500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114604-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/attack-lyt-11-gw-114598-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9641,7 +9664,7 @@
           "priceFen": 97500,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "原表哑光黑色与当前官网 solid black 名称不同，或哑光黑色/速度蓝色与 solid black/speed blue 不同；没有官方表面处理等同证明，暂不填图。"
           }
         }
       ],
@@ -9666,8 +9689,10 @@
           "color": "粉色",
           "priceFen": 110500,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114656-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/attack-lyt-11-gw-114598-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9692,8 +9717,10 @@
           "color": "哑光黑色",
           "priceFen": 130000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114686-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/prd-12-gw-114686-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9719,7 +9746,7 @@
           "priceFen": 78000,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "原表配色为哑光黑色/白色，当前官方 SKU 标注 solid black；官方图仅黑色本体与白灰标识，尚无哑光黑/白的可靠官方说明。"
           }
         }
       ],
@@ -9745,7 +9772,7 @@
           "priceFen": 78000,
           "image": {
             "status": "pending",
-            "note": "未找到可靠官方图片"
+            "note": "原表哑光黑色与当前官网 solid black 名称不同，或哑光黑色/速度蓝色与 solid black/speed blue 不同；没有官方表面处理等同证明，暂不填图。"
           }
         }
       ],
@@ -9770,8 +9797,10 @@
           "color": "白色",
           "priceFen": 78000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114701-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/jrs-7-5-gw-ca-114696-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
@@ -9796,41 +9825,15 @@
           "color": "白色",
           "priceFen": 65000,
           "image": {
-            "status": "pending",
-            "note": "未找到可靠官方图片"
+            "status": "verified",
+            "url": "/HEADpresale/products/head-f114707-official.webp",
+            "sourceUrl": "https://www.head.com/en_US/product/jrs-4-5-gw-ca-114703-cp",
+            "note": "官方图片已按准确型号、配色及配置核对。"
           }
         }
       ],
       "warnings": [
         "货单品类：固定器（双板）"
-      ]
-    },
-    {
-      "id": "p_0ef4858c65f05b1329ab",
-      "year": 2026,
-      "brand": "HEAD",
-      "category": "bindings",
-      "modelCode": "114561C",
-      "sku": "F114561C",
-      "name": "PR 10 GW PROMO BRAKE 85 [G]双板固定器",
-      "aliases": [],
-      "variants": [
-        {
-          "id": "v_62a35b5407531ca29cb2",
-          "productId": "p_0ef4858c65f05b1329ab",
-          "size": "M",
-          "color": "哑光黑色/速度蓝色",
-          "priceFen": 65000,
-          "image": {
-            "status": "conflict",
-            "note": "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
-          }
-        }
-      ],
-      "warnings": [
-        "货单品类：固定器（双板）",
-        "原表款号 114561C 与货号 F114561C 不一致，型号信息需供货方确认。",
-        "型号信息待确认：原表同货号存在不同款号、配置或报价，已分别保留；请与商家核实后选择。"
       ]
     }
   ],
@@ -9872,7 +9875,7 @@
     }
   ],
   "counts": {
-    "products": 177,
-    "variants": 583
+    "products": 176,
+    "variants": 581
   }
 }
