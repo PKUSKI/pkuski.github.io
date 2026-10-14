@@ -8990,6 +8990,834 @@
         }
       ],
       "warnings": []
+    },
+    {
+      "id": "p_eadf2853bac8c679a0b9",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "340706",
+      "sku": "F340706",
+      "name": "EX one black单板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_fb8a4a08fdfcac2770b1",
+          "productId": "p_eadf2853bac8c679a0b9",
+          "size": "L",
+          "color": "黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_0f29501cc79298117f14",
+          "productId": "p_eadf2853bac8c679a0b9",
+          "size": "M",
+          "color": "黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_bff687c55fa49c5ae910",
+          "productId": "p_eadf2853bac8c679a0b9",
+          "size": "S",
+          "color": "黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（单板）"
+      ]
+    },
+    {
+      "id": "p_6661ff8518bba4e7fd1c",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "340726",
+      "sku": "F340726",
+      "name": "EX one petrol单板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_9871f87b3a0365c906c5",
+          "productId": "p_6661ff8518bba4e7fd1c",
+          "size": "L",
+          "color": "青绿色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_7b4388f0ea6d22fa8649",
+          "productId": "p_6661ff8518bba4e7fd1c",
+          "size": "M",
+          "color": "青绿色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_e7e82b2edd4d6dda27ef",
+          "productId": "p_6661ff8518bba4e7fd1c",
+          "size": "S",
+          "color": "青绿色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（单板）"
+      ]
+    },
+    {
+      "id": "p_a3a071b7a0bd8df493f3",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100907",
+      "sku": "F100907",
+      "name": "FREEFLEX 14 GW BRAKE 85 [D]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_6e5dc0b1b0a93139d9ae",
+          "productId": "p_a3a071b7a0bd8df493f3",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 175500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_1aa39c680c0232d9b452",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100911",
+      "sku": "F100911",
+      "name": "PR 11 GW BRAKE 78 [G]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_70c3cdc09cc6cdde4f89",
+          "productId": "p_1aa39c680c0232d9b452",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 104000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_2bebfdf9505c54be219e",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100921",
+      "sku": "F100921",
+      "name": "EVO 9 GW CA BRAKE 85 [D]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_7bb23b4a2e2c9a030986",
+          "productId": "p_2bebfdf9505c54be219e",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 84500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_0d6c69c18939058fe44c",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100943",
+      "sku": "F100943",
+      "name": "PR 11 GW BRAKE 90 [G]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_3ce82eecebf1ec0538a2",
+          "productId": "p_0d6c69c18939058fe44c",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 104000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_acfef5d22433382acbb1",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100952",
+      "sku": "F100952",
+      "name": "JOY 9 GW SLR BRAKE 78 [H]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_d355b376a359336e75de",
+          "productId": "p_acfef5d22433382acbb1",
+          "size": "M",
+          "color": "白色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_209847ad6cc0b2453e33",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100953",
+      "sku": "F100953",
+      "name": "JOY 9 GW SLR [H-78] s.wh",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_ef5218d30eccafc9f4b2",
+          "productId": "p_209847ad6cc0b2453e33",
+          "size": "M",
+          "color": "白色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_65e5b6bf0e8115544024",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100954",
+      "sku": "F100954",
+      "name": "JOY 9 GW SLR BRAKE 78 [H]",
+      "aliases": [
+        "JOY 9 GW SLR BRAKE 78 [H]双板固定器"
+      ],
+      "variants": [
+        {
+          "id": "v_16e13170e365415f29fe",
+          "productId": "p_65e5b6bf0e8115544024",
+          "size": "M",
+          "color": "纯黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_093be8d7a01a793b2928",
+          "productId": "p_65e5b6bf0e8115544024",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）",
+        "原表同一货号存在名称别名，已保留原文并按货号分组。"
+      ]
+    },
+    {
+      "id": "p_120f7210eacf5bc0fcf7",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100964",
+      "sku": "F100964",
+      "name": "PROTECTOR+ FREEFLEX 14 GW BRAKE 85 [R]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_7681613723e02a39d6b1",
+          "productId": "p_120f7210eacf5bc0fcf7",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 227500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_579226228c375d63cea5",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100966",
+      "sku": "F100966",
+      "name": "FREEFLEX 11 GW BRAKE 85 [D]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_2400db953a2c1c55bb90",
+          "productId": "p_579226228c375d63cea5",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 117000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_e6964360895ef566ce5d",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "100967",
+      "sku": "F100967",
+      "name": "FREEFLEX DEMO 14 GW BRAKE 85 [D]",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_ff64a26d6014cd78c5f0",
+          "productId": "p_e6964360895ef566ce5d",
+          "size": "M",
+          "color": "黑色/速度蓝",
+          "priceFen": 195000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_20551e3c22926ecf1f48",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114528",
+      "sku": "F114528",
+      "name": "PR 10 GW PROMO [G-85] s.bk",
+      "aliases": [
+        "PR 10 GW PROMO BRAKE 85 [G]双板固定器"
+      ],
+      "variants": [
+        {
+          "id": "v_90649d5b8b849869ef2d",
+          "productId": "p_20551e3c22926ecf1f48",
+          "size": "M",
+          "color": "黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_d8385e28a78030f6fd71",
+          "productId": "p_20551e3c22926ecf1f48",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）",
+        "原表同一货号存在名称别名，已保留原文并按货号分组。"
+      ]
+    },
+    {
+      "id": "p_efc9c96242a8d242b6c6",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114561",
+      "sku": "F114561",
+      "name": "PR 10 GW PROMO BRAKE 85 [G]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_cd3b85795f444a638a74",
+          "productId": "p_efc9c96242a8d242b6c6",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_a89f586f50f1fba8d65a",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114561",
+      "sku": "F114561C",
+      "name": "PR 10 GW PROMO BRAKE 85 [G]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_3b0e20fc84d3d1330333",
+          "productId": "p_a89f586f50f1fba8d65a",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 65000,
+          "image": {
+            "status": "conflict",
+            "note": "型号信息待确认：原表同货号存在不同款号或报价，已分别保留；请与商家核实后选择。"
+          }
+        },
+        {
+          "id": "v_7fef0f6cc7a4b1dbd29c",
+          "productId": "p_a89f586f50f1fba8d65a",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 97500,
+          "image": {
+            "status": "conflict",
+            "note": "型号信息待确认：原表同货号存在不同款号或报价，已分别保留；请与商家核实后选择。"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）",
+        "型号信息待确认：原表同货号存在不同款号或报价，已分别保留；请与商家核实后选择。"
+      ]
+    },
+    {
+      "id": "p_61b2d14c285a65fc305d",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114598",
+      "sku": "F114598",
+      "name": "ATTACK LYT 11 GW BRAKE 95 [A]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_5c803c318597c990aa09",
+          "productId": "p_61b2d14c285a65fc305d",
+          "size": "M",
+          "color": "沙色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_5829e5ad80e54817b59a",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114601",
+      "sku": "F114601",
+      "name": "ATTACK LYT 11 GW BRAKE 85 [A]双板固定器",
+      "aliases": [
+        "ATTACK LYT 11 GW BRAKE 95 [A]双板固定器"
+      ],
+      "variants": [
+        {
+          "id": "v_1fc63153531d3ca1b0c4",
+          "productId": "p_5829e5ad80e54817b59a",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        },
+        {
+          "id": "v_6f31417b6ebdda87a3ba",
+          "productId": "p_5829e5ad80e54817b59a",
+          "size": "M",
+          "color": "黑色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）",
+        "原表同一货号存在名称别名，已保留原文并按货号分组。"
+      ]
+    },
+    {
+      "id": "p_8f2d7117875fc435c4ff",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114602",
+      "sku": "F114602",
+      "name": "ATTACK LYT 11 GW BRAKE 95 [A]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_9a7c8d6021c60954b105",
+          "productId": "p_8f2d7117875fc435c4ff",
+          "size": "M",
+          "color": "黑色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_920bfbd2d84f1b5679fc",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114603",
+      "sku": "F114603",
+      "name": "ATTACK LYT 11 GW BRAKE 110 [A]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_681f2ba76d940b02df02",
+          "productId": "p_920bfbd2d84f1b5679fc",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_32b628afa1ce517b0f0b",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114604",
+      "sku": "F114604",
+      "name": "ATTACK LYT 11 GW BRAKE 95 [A]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_bf2e4bef4a273580b747",
+          "productId": "p_32b628afa1ce517b0f0b",
+          "size": "M",
+          "color": "白色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_8531e66b38d3ca4fd41e",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114606",
+      "sku": "F114606",
+      "name": "ATTACK LYT 9 GW BRAKE 85 [D]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_e9d076150b0d4453d3a5",
+          "productId": "p_8531e66b38d3ca4fd41e",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 97500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_88de79acfd2fa8f151fc",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114656",
+      "sku": "F114656",
+      "name": "ATTACK LYT 11 GW BRAKE 95 [A]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_a1be49ebe6c0666ce33b",
+          "productId": "p_88de79acfd2fa8f151fc",
+          "size": "M",
+          "color": "粉色",
+          "priceFen": 110500,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_47dcb9da0f5203d387a0",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114686",
+      "sku": "F114686",
+      "name": "PRD 12 GW BRAKE 85 [F]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_14f74ac9528e7f0fb8da",
+          "productId": "p_47dcb9da0f5203d387a0",
+          "size": "M",
+          "color": "哑光黑色",
+          "priceFen": 130000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_a4c03acedd372e647375",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114696",
+      "sku": "F114696",
+      "name": "JRS 7.5 GW CA BRAKE 78 [H]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_d1dbc8e8abfc9311b410",
+          "productId": "p_a4c03acedd372e647375",
+          "size": "M",
+          "color": "哑光黑色/白色",
+          "priceFen": 78000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_36c32e8315869f391263",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114699",
+      "sku": "F114699",
+      "name": "JRS 7.5 GW CA BRAKE 78 [H]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_9b43466556bc222327f1",
+          "productId": "p_36c32e8315869f391263",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 78000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_7dbb80b71767be8ac65e",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114701",
+      "sku": "F114701",
+      "name": "JRS 7.5 GW CA BRAKE 78 [H]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_aaada6a7c392c0d3489b",
+          "productId": "p_7dbb80b71767be8ac65e",
+          "size": "M",
+          "color": "白色",
+          "priceFen": 78000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_9505e55b7380b21bc10a",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114707",
+      "sku": "F114707",
+      "name": "JRS 4.5 GW CA BRAKE 80 [I]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_63a93d0315df8b0eb46b",
+          "productId": "p_9505e55b7380b21bc10a",
+          "size": "M",
+          "color": "白色",
+          "priceFen": 65000,
+          "image": {
+            "status": "pending",
+            "note": "未找到可靠官方图片"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）"
+      ]
+    },
+    {
+      "id": "p_0ef4858c65f05b1329ab",
+      "year": 2026,
+      "brand": "HEAD",
+      "category": "bindings",
+      "modelCode": "114561C",
+      "sku": "F114561C",
+      "name": "PR 10 GW PROMO BRAKE 85 [G]双板固定器",
+      "aliases": [],
+      "variants": [
+        {
+          "id": "v_62a35b5407531ca29cb2",
+          "productId": "p_0ef4858c65f05b1329ab",
+          "size": "M",
+          "color": "哑光黑色/速度蓝色",
+          "priceFen": 65000,
+          "image": {
+            "status": "conflict",
+            "note": "型号信息待确认：原表同货号存在不同款号或报价，已分别保留；请与商家核实后选择。"
+          }
+        }
+      ],
+      "warnings": [
+        "货单品类：固定器（双板）",
+        "原表款号 114561C 与货号 F114561C 不一致，型号信息需供货方确认。",
+        "型号信息待确认：原表同货号存在不同款号或报价，已分别保留；请与商家核实后选择。"
+      ]
     }
   ],
   "categories": [
@@ -8997,6 +9825,11 @@
       "id": "skis",
       "label": "双板雪板",
       "sizeLabel": "板长（原表标识）"
+    },
+    {
+      "id": "bindings",
+      "label": "固定器",
+      "sizeLabel": "规格（货单原标识）"
     },
     {
       "id": "ski-boots",
@@ -9025,7 +9858,7 @@
     }
   ],
   "counts": {
-    "products": 148,
-    "variants": 547
+    "products": 176,
+    "variants": 583
   }
 }
